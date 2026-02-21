@@ -44,8 +44,6 @@ of novel variation for crop improvement.
 
 ⭑ Certified instructor at [The Carpentries](https://carpentries.org/)
 
-<br>
-
 ## Contact
 
 - ✉️ ma.torresmeraz@gmail.com
