@@ -1,4 +1,4 @@
-[![Language](https://img.shields.io/badge/Language-Español-pink)](README_ES.md)
+[![Idioma](https://img.shields.io/badge/Idioma-Español-pink)](README_ES.md)
 
 # Hi, I'm María Meraz 👋
 
