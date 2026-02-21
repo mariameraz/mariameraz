@@ -11,7 +11,7 @@ de variación novedosa para el mejoramiento de cultivos.
 ## Áreas de interés ٩(^ᗜ^ )و ´-
 
 ⭑ Genética de poblaciones  
-⭑ Mejoramiento vegetal  
+⭑ Mejoramiento genético vegetal  
 ⭑ Desarrollo del fruto  
 ⭑ Fenotipificado de alto rendimiento  
 ⭑ Análisis de imágenes y visión por computadora  
