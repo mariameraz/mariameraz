@@ -44,7 +44,6 @@ de variación novedosa para el mejoramiento de cultivos.
 
 ⭑ Instructora certificada en [The Carpentries](https://carpentries.org/)
 
-<br>
 
 ## Contacto
 
