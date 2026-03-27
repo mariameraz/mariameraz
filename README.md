@@ -48,7 +48,7 @@ of novel variation for crop improvement.
 
 ## Contact
 
-- ✉️ ma.torresmeraz@gmail.com
+- ✉️ ma.meraz@proton.me
 - ✉️ torresmeraz@wisc.edu
 
 
