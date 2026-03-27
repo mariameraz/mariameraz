@@ -46,5 +46,6 @@ Mi investigación se enfoca en la domesticación de plantas y en la exploración
 
 ## Contacto
 
+- ✉️ ma.meraz@proton.me
 - ✉️ torresmeraz@wisc.edu  
-- ✉️ ma.torresmeraz@gmail.com
+
