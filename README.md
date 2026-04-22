@@ -8,7 +8,7 @@ of novel variation for crop improvement.
 
 <br>
 
-## Research Interests ٩(^ᗜ^ )و ´-
+## Research Interests
 
   ⭑ Population genetics  
   ⭑ Plant breeding  
@@ -33,10 +33,10 @@ of novel variation for crop improvement.
 
 <br>
 
-## Recent Projects ദ്ദി( • ᴗ - ) ✧
+## Recent Projects
 
-❀。[Traitly](https://github.com/mariameraz/traitly) : Automated pipeline for internal and external fruit morphology phenotyping through image analysis.  
-❀。[QRLabel](https://github.com/mariameraz/qrlabel) : Streamlit web app for creating and managing image labels with QR code support.  
+⭑ [Traitly](https://github.com/mariameraz/traitly) : Automated pipeline for internal and external fruit morphology phenotyping through image analysis.  
+⭑ [QRLabel](https://github.com/mariameraz/qrlabel) : Streamlit web app for creating and managing image labels with QR code support.  
 
 <br>
 
@@ -48,7 +48,6 @@ of novel variation for crop improvement.
 
 ## Contact
 
-- ✉️ ma.meraz@proton.me
+- ✉️ ma.meraz@proton.me  ٩(^ᗜ^ )و ´-
 - ✉️ torresmeraz@wisc.edu
-
 
