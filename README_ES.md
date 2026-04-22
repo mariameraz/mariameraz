@@ -7,7 +7,7 @@ Mi investigación se enfoca en la domesticación de plantas y en la exploración
 
 <br>
 
-## Áreas de interés ٩(^ᗜ^ )و ´-
+## Áreas de interés 
 
 ⭑ Genética de poblaciones  
 ⭑ Mejoramiento genético vegetal  
@@ -32,10 +32,10 @@ Mi investigación se enfoca en la domesticación de plantas y en la exploración
 
 <br>
 
-## Proyectos recientes ദ്ദി( • ᴗ - ) ✧
+## Proyectos recientes
 
-❀。[Traitly](https://github.com/mariameraz/traitly) : Pipeline automatizado para el fenotipificado de la morfología interna y externa de frutos mediante análisis de imágenes.  
-❀。[QRLabel](https://github.com/mariameraz/qrlabel) : Aplicación web en Streamlit para crear plantillas de etiquetas con soporte de códigos QR.  
+⭑ [Traitly](https://github.com/mariameraz/traitly) : Pipeline automatizado para el fenotipificado de la morfología interna y externa de frutos mediante análisis de imágenes.  
+⭑ [QRLabel](https://github.com/mariameraz/qrlabel) : Aplicación web en Streamlit para crear plantillas de etiquetas con soporte de códigos QR.  
 
 <br>
 
@@ -46,6 +46,6 @@ Mi investigación se enfoca en la domesticación de plantas y en la exploración
 
 ## Contacto
 
-- ✉️ ma.meraz@proton.me
+- ✉️ ma.meraz@proton.me  ٩(^ᗜ^ )و ´-
 - ✉️ torresmeraz@wisc.edu  
 
