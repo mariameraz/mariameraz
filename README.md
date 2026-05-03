@@ -3,8 +3,7 @@
 # Hi, I'm María Meraz 👋
 
 PhD candidate in Plant Breeding and Genetics at UW-Madison.
-I work on plant domestication, exploring wild relatives as sources
-of novel variation for crop improvement.
+My research centers on understanding the genetic basis of plant domestication and exploring wild relatives as sources of novel variation for crop improvement.
 
 <br>
 
