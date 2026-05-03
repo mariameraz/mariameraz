@@ -3,7 +3,7 @@
 # Hola, soy María Meraz 👋
 
 Candidata a doctora en Plant Breeding and Genetics en la Universidad de Wisconsin-Madison.
-Mi investigación actual se enfoca en la domesticación de plantas de arándanos y en la exploración de parientes silvestres como fuentes de variación novedosa para el mejoramiento de cultivos.
+Me enfoco en comprender las bases genéticas de la domesticación de plantas y en la exploración de parientes silvestres como fuentes de variación novedosa para el mejoramiento de cultivos.
 
 <br>
 
