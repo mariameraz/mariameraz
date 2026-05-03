@@ -2,7 +2,7 @@
 
 # Hola, soy María Meraz 👋
 
-Candidata a doctorado en Plant Breeding and Genetics en la Universidad de Wisconsin-Madison.
+Candidata a doctora en Plant Breeding and Genetics en la Universidad de Wisconsin-Madison.
 Mi investigación se enfoca en la domesticación de plantas y en la exploración de parientes silvestres como fuentes de variación novedosa para el mejoramiento de cultivos.
 
 <br>
