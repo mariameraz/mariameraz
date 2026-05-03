@@ -3,7 +3,7 @@
 # Hola, soy María Meraz 👋
 
 Candidata a doctora en Plant Breeding and Genetics en la Universidad de Wisconsin-Madison.
-Me enfoco en comprender las bases genéticas de la domesticación de plantas y en la exploración de parientes silvestres como fuentes de variación novedosa para el mejoramiento de cultivos.
+Mi investigación se centra en comprender las bases genéticas de la domesticación de plantas y en explorar parientes silvestres como fuentes de variación novedosa para el mejoramiento de cultivos.
 
 <br>
 
