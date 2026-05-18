@@ -41,7 +41,7 @@ My research centers on understanding the genetic basis of plant domestication an
 
 ## 🤝 Communities
 
-⭑ Certified instructor at [The Carpentries](https://carpentries.org/)
+⭑ Certified instructor and Lesson Mantainer at [The Carpentries](https://carpentries.org/)
 
 <br>
 
