@@ -41,7 +41,7 @@ Mi investigación se centra en comprender las bases genéticas de la domesticaci
 
 ## 🤝 Comunidades
 
-⭑ Instructora certificada en [The Carpentries](https://carpentries.org/)
+⭑ Instructora certificada y mantenedora de lecciones en [The Carpentries](https://carpentries.org/)
 
 
 ## Contacto
