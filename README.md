@@ -33,10 +33,11 @@ My research centers on understanding the genetic basis of plant domestication an
 
 ⭑ Certified instructor and Lesson Mantainer at [The Carpentries](https://carpentries.org/)
 
-<br>
 
 ## Contact
 
-- ✉️ ma.meraz@proton.me  ٩(^ᗜ^ )و ´-
+- ✉️ ma.torresmeraz@gmail.com
 - ✉️ torresmeraz@wisc.edu
+
+٩(^ᗜ^ )و ´-
 
