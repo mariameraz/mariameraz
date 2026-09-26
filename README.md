@@ -32,14 +32,7 @@ My research centers on understanding the genetic basis of plant domestication an
 
 <br>
 
-## Recent Projects
-
-⭑ [Traitly](https://github.com/mariameraz/traitly) : Automated pipeline for internal and external fruit morphology phenotyping through image analysis.  
-⭑ [QRLabel](https://github.com/mariameraz/qrlabel) : Streamlit web app for creating and managing image labels with QR code support.  
-
-<br>
-
-## 🤝 Communities
+## Communities
 
 ⭑ Certified instructor and Lesson Mantainer at [The Carpentries](https://carpentries.org/)
 
