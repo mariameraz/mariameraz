@@ -32,14 +32,7 @@ Mi investigación se centra en comprender las bases genéticas de la domesticaci
 
 <br>
 
-## Proyectos recientes
-
-⭑ [Traitly](https://github.com/mariameraz/traitly) : Pipeline automatizado para el fenotipificado de la morfología interna y externa de frutos mediante análisis de imágenes.  
-⭑ [QRLabel](https://github.com/mariameraz/qrlabel) : Aplicación web en Streamlit para crear plantillas de etiquetas con soporte de códigos QR.  
-
-<br>
-
-## 🤝 Comunidades
+## Comunidades
 
 ⭑ Instructora certificada y mantenedora de lecciones en [The Carpentries](https://carpentries.org/)
 
