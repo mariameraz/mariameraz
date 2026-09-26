@@ -5,8 +5,6 @@
 Candidata a doctora en Plant Breeding and Genetics en la Universidad de Wisconsin-Madison.
 Mi investigación se centra en comprender las bases genéticas de la domesticación de plantas y en explorar parientes silvestres como fuentes de variación novedosa para el mejoramiento de cultivos.
 
-<br>
-
 ## Áreas de interés 
 
 ⭑ Genética de poblaciones  
@@ -18,7 +16,6 @@ Mi investigación se centra en comprender las bases genéticas de la domesticaci
 ⭑ Integración de multiómicas  
 ⭑ Ciencia abierta y código libre  
 
-<br>
 
 ## Lenguajes y herramientas ⋆ ̇⟡
 
@@ -30,7 +27,6 @@ Mi investigación se centra en comprender las bases genéticas de la domesticaci
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-<br>
 
 ## Comunidades
 
