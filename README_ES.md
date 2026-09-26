@@ -32,9 +32,9 @@ Mi investigación se centra en comprender las bases genéticas de la domesticaci
 
 ⭑ Instructora certificada y mantenedora de lecciones en [The Carpentries](https://carpentries.org/)
 
-
 ## Contacto
 
-- ✉️ ma.meraz@proton.me  ٩(^ᗜ^ )و ´-
+- ✉️ ma.torresmeraz@gmail.com
 - ✉️ torresmeraz@wisc.edu  
 
+٩(^ᗜ^ )و ´-
