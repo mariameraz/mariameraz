@@ -5,7 +5,6 @@
 PhD candidate in Plant Breeding and Genetics at UW-Madison.
 My research centers on understanding the genetic basis of plant domestication and exploring wild relatives as sources of novel variation for crop improvement.
 
-<br>
 
 ## Research Interests
 
@@ -18,7 +17,6 @@ My research centers on understanding the genetic basis of plant domestication an
   ⭑ Multi-omics integration  
   ⭑ Open science and open-source code  
 
-<br>
 
 ## Languages and Tools ⋆˙⟡
 
@@ -30,7 +28,6 @@ My research centers on understanding the genetic basis of plant domestication an
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-<br>
 
 ## Communities
 
